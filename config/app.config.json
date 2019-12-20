@@ -1,0 +1,6 @@
+{
+    "input_dir": "images",
+    "output_dir": "images/output",
+    "suffix": "model",
+    "pass_probability": "60"
+}
