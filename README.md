@@ -4,6 +4,7 @@
 - Install [Node.js]([https://nodejs.org/en/](https://nodejs.org/en/)) > v13.x.x
 - `git clone https://github.com/Pipabella/pb-image-identification.git`
 - `npm install`
+- `mkdir images`
 
 
 ## Configuration
